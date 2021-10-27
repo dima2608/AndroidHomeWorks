@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">contacts</string>
+    
+    <string-array name="phone_type">
+        <item>"Home</item>
+        <item>"Work</item>
+        <item>"Mobile</item>
+    </string-array>
+
+    <string-array name="email_type">
+        <item>"Home</item>
+        <item>"Work</item>
+    </string-array>
+</resources>
